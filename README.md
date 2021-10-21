@@ -1,7 +1,7 @@
 ## Hello! my name is NotThatUwU
 
 ### I'm a Developer, and Student!
-- I'm trying to bypass shit anticheat on popular minecrafe server
+- I'm trying to bypass shit anticheat on popular Minecraft server
 - Current Goal: idk get some $$$?
 
 ### My status
