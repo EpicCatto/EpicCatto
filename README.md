@@ -1,4 +1,4 @@
-## Hello! my name is NotThatUwU
+## Hello! my name is EpicCatto
 
 ### I'm a Developer, and Student!
  - Quit cheating community feeling good
