@@ -1,7 +1,7 @@
 ## Hello! my name is EpicCatto
 
 ### I'm a Developer, and Student!
- - Quit cheating community feeling good
+ - Quit cheating community feeling good (nah nvm)
  
 ### My status
 <img src="https://discord.c99.nl/widget/theme-1/790035501260079145.png">
