@@ -18,7 +18,7 @@
 <br>> UwUAnticheat - Simple but powerful anticheat: [Spigot - UwUAnticheat](https://www.spigotmc.org/resources/uwu-anticheat-1-8-8-1-12-2-discontinued.92683/)
 <br>> Myth Client - Not associate with the new myth client: [Github - Myth Public](https://github.com/EpicCatto/Myth-Public)
 
-### My status
+### My status:
 <img src="https://discord.c99.nl/widget/theme-1/531802615202316298.png">
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=EpicCatto&&show_icons=true&title_color=df36d8&icon_color=bb2acf&text_color=05f0f7&bg_color=151515">
