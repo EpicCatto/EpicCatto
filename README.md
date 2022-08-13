@@ -1,8 +1,10 @@
-## Hello! my name is EpicCatto
 
-### I'm a Developer and Student!
- - bypass block game server with bad antihake
-### My status
-<img src="https://discord.c99.nl/widget/theme-1/531802615202316298.png">
-<img src="https://github-readme-stats.vercel.app/api?username=EpicCatto&&show_icons=true&title_color=df36d8&icon_color=bb2acf&text_color=05f0f7&bg_color=151515">
-<img align="center" style="margin-left: 45px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EpicCatto&layout=compact&theme=bear" />
+<div align="center">
+
+### Hi👋, I’m EpicCatto!
+
+<br>- 😎 I’m currently working on UwU Anticheat
+<br>- 🤓 I’m currently learning C++, JavaFx
+<br>- 📫 How to reach me: EpocCattus#7079
+<br>- 😄 Pronouns: He/Him
+
