@@ -15,8 +15,9 @@
 <br>+ Discord: EpocCattus#7079
   
 ### My projects:
-<br>> UwUAnticheat - Simple but powerful anticheat: [Spigot - UwUAnticheat](https://www.spigotmc.org/resources/uwu-anticheat-1-8-8-1-12-2-discontinued.92683/)
+<br>> Catto Client - Brand new free client I'm working on :D [Discord - Catto Lover](https://discord.com/invite/vbxrxd43wW)
 <br>> Myth Client - Not associate with the new myth client: [Github - Myth Public](https://github.com/EpicCatto/Myth-Public)
+<br>> UwUAnticheat - Simple but powerful anticheat: [Spigot - UwUAnticheat](https://www.spigotmc.org/resources/uwu-anticheat-1-8-8-1-12-2-discontinued.92683/)
 
 ### My status:
 <img src="https://discord.c99.nl/widget/theme-1/531802615202316298.png">
