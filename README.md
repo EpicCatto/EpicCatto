@@ -14,7 +14,7 @@
 <br>+ Spigot: https://www.spigotmc.org/members/notthatuwu.1311254/
 <br>+ Discord: EpocCattus#7079
 
-## Projects that I work for:
+### Projects that I work for:
 <br>> GetSomeHost - Free image host [Discord - GetSomeHost](https://discord.gg/RhV3eQ95aT)
 
 ### My projects:
