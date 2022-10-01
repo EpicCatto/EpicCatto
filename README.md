@@ -4,7 +4,7 @@
 ### Hi👋, I’m EpicCatto!
 
 <br>- 😎 I’m currently working on GetSomeHost
-<br>- 🤓 I’m currently learning C++, JavaFx
+<br>- 🤓 I’m currently learning C++, JavaFx, CSS, Front-End stuff
 <br>- 📫 How to reach me: EpocCattus#7079
 <br>- 😄 Pronouns: He/Him
 <br>- 🤔 Did you know: I make a minecraft client then release it for free (without a rat in it ofc c:)
