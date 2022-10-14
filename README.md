@@ -1,4 +1,4 @@
-
+[
 <div align="center">
 
 ### Hi👋, I’m EpicCatto!
@@ -25,3 +25,4 @@
 <img src="https://discord.c99.nl/widget/theme-1/531802615202316298.png">
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=EpicCatto&&show_icons=true&title_color=df36d8&icon_color=bb2acf&text_color=05f0f7&bg_color=151515">
+](https://github.com/orgs/GetSomeHost/people)
