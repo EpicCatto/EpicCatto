@@ -4,7 +4,7 @@
 
 <br>- 😎 I’m currently working on GetSomeHost
 <br>- 🤓 I’m currently learning C++, JavaFx, CSS, Front-End stuff
-<br>- 📫 How to reach me: EpocCattus#7079
+<br>- 📫 How to reach me: EpocCattus#4321
 <br>- 😄 Pronouns: He/Him
 <br>- 🤔 Did you know: I like cats 🤯🤯🤯 ahahahahhahah i'm so funny!!
 
