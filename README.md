@@ -1,22 +1,25 @@
-<div align="center">
+![svg (1)](https://github.com/EpicCatto/EpicCatto/assets/72650902/96c1309e-d384-4a93-8723-89c78e24d79a)
 
-### Hi👋, I’m EpicCatto!
+<br><br>
 
-<br>- 😎 I’m currently working on GetSomeHost
-<br>- 🤓 I’m currently learning C++, JavaFx, CSS, Front-End stuff
-<br>- 📫 How to reach me: EpocCattus#4321
-<br>- 😄 Pronouns: He/Him
-<br>- 🤔 Did you know: I like cats 🤯🤯🤯 ahahahahhahah i'm so funny!!
+<h3 align="center">I'm EpicCatto you can call me "Pat"</h3>
+<h3 align="center">👋 I code stuff</h3>
 
-### Check out some of my profiles!
-<br>+ Youtube: https://www.youtube.com/notthatuwu
-<br>+ Spigot: https://www.spigotmc.org/members/notthatuwu.1311254/
-<br>+ Discord: EpicCatto#4321 (Not accepting friends)
+<h3 align="center">L E A R N I N G</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,html,css,js,typescript,nodejs,react,nextjs,express,mongodb&perline=12" />
+  </a>
+</p>
 
-### My projects:
-<br>> UwUAnticheat - Simple but powerful anticheat: [Spigot - UwUAnticheat](https://www.spigotmc.org/resources/uwu-anticheat-1-8-8-1-12-2-discontinued.92683/)
+<h3 align="center">ＩＮＴＲＥＳＴＥＤ ＩＮ ＬＥＡＲＮＩＮＧ</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,tensorflow,kotlin,c,cs,cpp,lua,docker,rust,dotnet,svelte,wasm&perline=12" />
+  </a>
+</p>
 
-### My status:
-<img src="https://discord.c99.nl/widget/theme-1/531802615202316298.png">
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=EpicCatto&&show_icons=true&title_color=df36d8&icon_color=bb2acf&text_color=05f0f7&bg_color=151515">
+
+<br><br>
+
+![svg](https://github.com/EpicCatto/EpicCatto/assets/72650902/6040ba6a-9591-47a5-95fe-1c322597eba0)
