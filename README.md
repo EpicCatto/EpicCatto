@@ -19,6 +19,9 @@
   </a>
 </p>
 
+<h3 align="center">P R O J E C T S</h3>
+<h3 align="center">Minecraft Cheat Development</h3>
+<h3 align="center">Minecraft Cheat Detection</h3>
 
 <br><br>
 
