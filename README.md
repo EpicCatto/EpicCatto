@@ -5,6 +5,11 @@
 <h3 align="center">I'm EpicCatto you can call me "Pat"</h3>
 <h3 align="center">👋 I code stuff</h3>
 
+
+<div align="center">
+  <img src="https://discord.c99.nl/widget/theme-1/1158420428109394040.png">
+</div>
+
 <h3 align="center">L E A R N I N G</h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -24,7 +29,5 @@
 <h3 align="center">Minecraft Cheat Detection</h3>
 
 <br><br>
-
-<img src="https://discord.c99.nl/widget/theme-1/1158420428109394040.png">
 
 ![svg](https://github.com/EpicCatto/EpicCatto/assets/72650902/6040ba6a-9591-47a5-95fe-1c322597eba0)
