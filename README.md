@@ -25,4 +25,6 @@
 
 <br><br>
 
+<img src="https://discord.c99.nl/widget/theme-1/1158420428109394040.png">
+
 ![svg](https://github.com/EpicCatto/EpicCatto/assets/72650902/6040ba6a-9591-47a5-95fe-1c322597eba0)
