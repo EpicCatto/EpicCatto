@@ -30,4 +30,8 @@
 
 <br><br>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=epiccatto&style=flat-square" />
+</p>
+
 ![svg](https://github.com/EpicCatto/EpicCatto/assets/72650902/6040ba6a-9591-47a5-95fe-1c322597eba0)
